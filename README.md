@@ -99,7 +99,7 @@ github: USERNAME
  	<tr>
  		<td align="center">
  			<a href="https://github.com/aryasoni98">
- 				<img src="./static/images/aryasoni.jpg" width="100px" alt="" />
+ 				<img src="./static/images/aryasoni.JPG" width="100px" alt="" />
  				<br /> <sub><b>Arya Soni</b></sub>
  			</a>
  			<br /> <a href="https://github.com/aryasoni98">
