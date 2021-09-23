@@ -73,8 +73,8 @@ h1 + p, p + p {
   position: relative;
   -webkit-box-flex: 0;
           flex: 0 0 240px;
-  width: 280px;
-  height: 460px;
+  width: 240px;
+  height: 320px;
   background-color: #333;
   overflow: hidden;
   border-radius: 10px;
@@ -100,7 +100,7 @@ h1 + p, p + p {
 }
 
 .card-info {
-  padding: 24px;
+  padding: 20px;
   position: absolute;
   bottom: 0;
   color: #fff;
