@@ -1,1 +1,5 @@
-.DB_Store
+public
+.idea
+
+# misc
+.DS_Store
