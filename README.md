@@ -17,21 +17,11 @@
 
 </div>
 
-# Hacktoberfest'21 Practice Contribution
+# Hacktoberfest'21
 
 Hacktoberfest is a month long event where people are awarded for contributing to open source projects 🙌, and we're joining the party .Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
-<b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only</b>
-
-We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo.
-
 ---
-
-# Hacktoberfest Practice Pull Requests
-
-Repo for you to raise a Pull Request for practice.
-
-**Just add your name, Linkedin url, or other social media link on HTML file**
 
 ## How to contribute
 
@@ -90,6 +80,35 @@ github: USERNAME
  #### 4. Wait for Pull Request to merge		
 
  #### 5. Celebrate - you've done your first pull request!!🎉
+
+---
+
+ # FAQs
+
+ - Who can contribute?
+   - Anyone with a github account and who is signed up for
+ [hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
+ - Are you getting paid for this?
+   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
+ - Who are you and why are you doing this?
+   - We are two programmers from India [Anmol](https://www.linkedin.com/in/fineanmol/)
+   and [Ritesh](https://github.com/ritesh2905). We are doing this because we love Open
+   Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
+ - Why are you not using digitalocean?
+   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
+
+ - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
+   - Nope.
+ - How many pull request (PR) must be made, if I can get a awesome shirt from Hacktoberfest 2021?
+   - 5
+ - How do I track my progress to get an awesome shirt from Hacktoberfest 2021?
+   - [go to :](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
+ - What is the duration of Hacktoberfest 2021?
+   - It is from 1st october to 31st october 2021...
+ - What is the event for?
+   - For the open source community engagement
+
+---
 
  <div align="center">
 
