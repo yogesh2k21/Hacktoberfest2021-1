@@ -67,11 +67,13 @@ content/participant/<YOUR-USERNAME>.md/
 
  ```		
 ---		
+
 name: YOUR_NAME		
 institution: INSTITUTION_NAME		
 image: PROFILE_PICTURE_FILENAME		
 quote: YOUR_QUOTE		
-github: USERNAME		
+github: USERNAME
+	
 ---		
 ```		
 
