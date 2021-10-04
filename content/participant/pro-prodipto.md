@@ -1,9 +1,9 @@
 ---
 
-name: Pritam Bera		
-institution: VU		
-image: pritam.JPG		
-quote: Knowledge Comes from Experience.		
-github: pritambera2000		
+name: Pradipto Karmakar.	
+institution: RCC Institute of Information Technology, Kolkata.
+image: pro-prodipto.jpg		
+quote: Software is like sex: it's better when it's free!
+github: pro-prodipto
 
----		
+---
