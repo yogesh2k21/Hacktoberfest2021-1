@@ -3,7 +3,7 @@
 
 name: Lawani Abiola Kingsley
 
-institution: INSTITUITION
+institution: DATALgorith.inc
 image: kingsley.jpeg
 quote: learn to things the hard way
 github: abiolaks
