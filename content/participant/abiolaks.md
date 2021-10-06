@@ -1,12 +1,12 @@
 ---
 
 
-name: __Lawani Abiola Kingsley__
+name: Lawani Abiola Kingsley
 
-institution: __INSTITUITION__
+institution: INSTITUITION
 image: kingsley.jpeg
-quote: _learn to things the hard way_
-github: __abiolaks__
+quote: learn to things the hard way
+github: abiolaks
 
 
 ---
