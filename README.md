@@ -65,17 +65,17 @@ content/participant/<YOUR-USERNAME>.md/
 
  Copy the next template into your file, delete the boilerplate data and fill the information with yours.		
 
- ```		
----		
+ ```
+---
 
-name: YOUR_NAME		
-institution: INSTITUTION_NAME		
-image: PROFILE_PICTURE_FILENAME		
-quote: YOUR_QUOTE		
+name: YOUR_NAME
+institution: INSTITUTION_NAME
+image: PROFILE_PICTURE_FILENAME
+quote: YOUR_QUOTE
 github: USERNAME
-	
----		
-```		
+
+---
+```
 
  _Do not use special characters in the template above._		
 
